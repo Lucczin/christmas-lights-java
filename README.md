@@ -35,5 +35,5 @@ Este projeto foi inspirado no repositório:
 
 👉 https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md
 
-Todos os créditos da ideia original pertencem a :contentReference[oaicite:1]{index=1} e ao projeto :contentReference[oaicite:2]{index=2}.
+
 
